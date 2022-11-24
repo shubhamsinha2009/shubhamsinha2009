@@ -1,9 +1,10 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UC2WQjUrALngobKov0dDYk2g?sub_confirmation=1">Shubham Kumar Sinha!</a></h1>
-<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
+<h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/shubham-kumar-sinha-2a9883251/">Shubham Kumar Sinha!</a></h1>
+<h3 align="center"> Preparing for Full Stack Developement  jobs with Acciojob </h3>
 
-- 🔭 I’m currently working on Youtube
-- 🌱 I’m currently learning Flutter ❤️
-- 👯 I’m looking to collaborate with other content creators
+
+
+- 🌱 I’m currently learning DSA - Full Stack Develepment on Acciojob ❤️
+- - 🔭 I had worked on some apps using Flutter ❤️
 - 🗿 I am one of the early adopters of Flutter, it has been more than 4 years
 - ⚡ Fun fact: I love reading & podcasts
 
